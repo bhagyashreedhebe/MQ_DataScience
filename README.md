@@ -9,5 +9,11 @@ this repository as a record of your work.  This can then form part of your ongoi
 You should update this README file to personalise your repository. 
 
 
+Functions:
+- info()
+- describe
+- shape
+- isnull()
+- fillna()
 
 
