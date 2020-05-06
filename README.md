@@ -17,3 +17,6 @@ Functions:
 - fillna()
 
 
+Week 9 KNN Classifier:
+1. from sklearn import datasets : import the built in datasets from sklearn
+2. Printing the iris_data gives out the attributes using "iris_data" at input line
